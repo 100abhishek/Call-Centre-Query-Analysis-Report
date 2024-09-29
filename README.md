@@ -21,12 +21,13 @@ Average Speed of Answer (in Seconds): This specific metric highlights the speed 
 <br>
 Visualizations:
 <br>
-<br>
 I used various graphs and charts to visualize these metrics, making it easier to:
 <br>
 <br>
 Compare agent performance.
+<br>
 Track trends in customer satisfaction.
+<br>
 Identify patterns in response time and efficiency.
 <br>
 <br>
