@@ -23,7 +23,6 @@ Visualizations:
 <br>
 I used various graphs and charts to visualize these metrics, making it easier to:
 <br>
-<br>
 Compare agent performance.
 <br>
 Track trends in customer satisfaction.
