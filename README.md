@@ -1,8 +1,8 @@
 # Call-Centre-Query-Analysis-Report
 I developed this Power BI dashboard to analyze key performance metrics for a call center. The goal was to provide insights into agent efficiency and customer satisfaction, enabling better decision-making for improved operations.
 <br>
-Key Metrics:
 <br>
+Key Metrics:
 <br>
 Sum of Customer Satisfaction Ratings: This metric shows the total satisfaction ratings given by customers to individual agents.
 <br>
